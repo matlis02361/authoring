@@ -3,11 +3,11 @@
  ##  Github Flavoured Markdown
 
  # Create checkboxes
- - [X] [github](https://help.github.com/en)
- - [X] [imageFolder](https://help.github.com/en)
- - [x] [images] #images
- - [x] [Emojis] #Emjois
- - [x] [Table]  #Tabele
+ - [ ] [github](#github)
+ - [ ] [imageFolder](/images/)
+ - [x] [images] (#images)
+ - [x] [Emojis] (#Emjois)
+ - [x] [Table]  (#Tabele)
  
 
  # External Link
