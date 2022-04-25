@@ -5,9 +5,9 @@
  # Create checkboxes
  - [ ] [github](#github)
  - [ ] [imageFolder](/images/)
- - [x] [images] (#images)
- - [x] [Emojis] (#Emjois)
- - [x] [Table]  (#Tabele)
+ - [x] [images](#images)
+ - [x] [Emojis](#Emjois)
+ - [x] [Table](#Tabele)
  
 
  # External Link
